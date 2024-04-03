@@ -2,7 +2,7 @@
 
 <h2> Self-taught Back-End Developer </h2>
 
-<p> I am currently learning the fundamentals of Python, SQL, Databases, Version Control (Git), Machine Learning and Data Science through Zero to Mastery's online Complete Python Developer program. I have already applied the knowledge I've gained to build several projects that showcase my skills in Python programming</p>
+<p> I am currently learning the fundamentals of Python programming through Zero to Mastery's Complete Python Developer program. I have already applied the knowledge I've gained to build several projects that showcase my skills in Python programming</p>
 
 <p> Having spent the last 15+ years as a military member in the Canadian Armed Forces, I have developed strong communication skills, problem-solving, time management and leadership skills that I hope to apply the exciting challenges in Back-End development.</p>
 
