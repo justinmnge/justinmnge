@@ -11,7 +11,7 @@
 <ul>&#8226; &#128231; You can contact me at <a href="mailto:justin.mnge@gmail.com">justin.mnge@gmail.com</a></ul>
 
 <h2> Tech Stack </h2>
-<a href="https://www.python.org/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffdd54">
+<a href="https://www.python.org/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Python-376F9E?style=for-the-badge&logo=Python&logoColor=FFCD3C">
 
 </a>
 
