@@ -1,6 +1,6 @@
 ### <h1> Hi, My name is Justin Monge!👋 </h1>
 
-<h2> Self-taught Back-End Developer </h2>
+<h2> Back-End Developer </h2>
 
 <p> I am currently learning the fundamentals of Python programming through Zero to Mastery's Complete Python Developer program. I have already applied the knowledge I've gained to build several projects that showcase my skills in Python programming</p>
 
