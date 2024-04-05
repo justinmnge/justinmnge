@@ -2,7 +2,7 @@
 
 <h2> Back-End Developer </h2>
 
-<p> I have completed the fundamentals of Python programming through Zero to Mastery's Complete Python Developer program. I have already applied the knowledge I've gained to build several projects that showcase my skills in Python programming</p>
+<p> Having completed the fundamentals of Python programming through Zero to Mastery's Complete Python Developer program. I have already applied the knowledge I've gained to build several projects that showcase my skills in Python programming.</p>
 
 <p> Having spent the last 15+ years as a military member in the Canadian Armed Forces, I have developed strong communication skills, leadership skills, problem-solving, and time management that I hope to apply in the exciting challenges in Back-End development.</p>
 
