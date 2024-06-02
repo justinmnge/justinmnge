@@ -11,7 +11,7 @@
 <ul>&#8226; &#128231; You can contact me at <a href="mailto:justin.mnge@gmail.com">justin.mnge@gmail.com</a></ul>
 
 <h2> Tech Stack </h2>
-<a href="https://www.python.org/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Python-222121?style=for-the-badge&logo=Python&logoColor=FFCD3C">&nbsp;<a href="https://www.git-scm.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Git-222121?style=for-the-badge&logo=Git&logoColor=RED">&nbsp;<a href="https://www.linux.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Linux-222121?style=for-the-badge&logo=Linux&logoColor=RED">
+<a href="https://www.python.org/" rel="nofollow" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Python-222121?style=for-the-badge&logo=Python&logoColor=FFCD3C"></a>&nbsp;<a href="https://www.git-scm.com" rel="nofollow" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Git-222121?style=for-the-badge&logo=Git&logoColor=RED/"></a>&nbsp;<a href="https://www.linux.com" rel="nofollow" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Linux-222121?style=for-the-badge&logo=Linux&logoColor=RED"></a>
 
 </a>
 
