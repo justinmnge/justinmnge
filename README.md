@@ -1,10 +1,10 @@
 ### <h1> Hi, My name is Justin Monge!👋 </h1>
 
-<h2> Back-End Developer </h2>
+<h2> Software Developer </h2>
 
-<p> Having completed the fundamentals of Python programming through Zero to Mastery's Complete Python Developer program. I have already applied the knowledge I've gained to build several projects that showcase my skills in Python programming.</p>
+<p> After having completed the fundamentals of Python programming through Zero to Mastery's Complete Python Developer program. I have applied the knowledge I've gained to develop several projects that demonstrate my proficiency in Python programming, Version Control and Linux.</p>
 
-<p> Having spent the last 15+ years as a military member in the Canadian Armed Forces, I have developed strong communication skills, leadership skills, problem-solving, and time management that I hope to apply in the exciting challenges in Back-End development.</p>
+<p>With over 15 years of dedicated service as a military member in the Canadian Armed Forces, I have honed invaluable skills in communication, leadership, problem-solving, and time management. I am eager to leverage these competencies in tackling the dynamic challenges inherent to Software development.</p>
 
 <ul>&#8226; &#127757; I'm currently based in Oromocto, NB</ul>
 <ul>&#8226; &#128187; My projects can be found at "My Portfolio" </ul>
