@@ -11,13 +11,14 @@
 <ul>&#8226; &#128231; You can contact me at <a href="mailto:justin.mnge@gmail.com">justin.mnge@gmail.com</a></ul>
 
 <h2> Tech Stack </h2>
-<a href="https://www.python.org/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Python-376F9E?style=for-the-badge&logo=Python&logoColor=FFCD3C">
+<a href="https://www.python.org/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Python-376F9E?style=for-the-badge&logo=Python&logoColor=FFCD3C"> <a href="https://www.git-scm.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Git-label?style=flat&logo=GIT&label=GIT&labelColor=White&color=Red&">
 
 </a>
 
 <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/justin-monge-cd-942a032b9/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
+
   </a>
 
 <!--
