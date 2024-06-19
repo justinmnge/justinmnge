@@ -4,7 +4,7 @@
 
 <p> After completing several Python Developer courses, to include Zero to Mastery's Complete Python Developer program, I have continued to further my knowledge in Python programming through a variety of side projects that also demonstrate my proficiency in Version Control and Linux.</p>
 
-<p>With over 15 years of dedicated service as a military member in the Canadian Armed Forces, I have honed invaluable skills in communication, leadership, problem-solving, and time management. I am eager to leverage these competencies in tackling the dynamic challenges inherent to Software Development.</p>
+<p>With over 15 years of dedicated service as a military member in the Canadian Armed Forces, I have invaluable skills in communication, leadership, problem-solving, and time management through formal and informal means. I am eager to leverage these competencies in tackling the dynamic challenges inherent to Software Development.</p>
 
 <ul>&#8226; &#127757; I'm currently based in Oromocto, NB</ul>
 <ul>&#8226; &#128187; My projects can be found at "My Portfolio" </ul>
