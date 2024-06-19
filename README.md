@@ -2,7 +2,7 @@
 
 <h2> Software Developer </h2>
 
-<p> After having completed the fundamentals of Python programming through Zero to Mastery's Complete Python Developer program. I have applied the knowledge I've gained to develop several projects that demonstrate my proficiency in Python programming, Version Control, Linux and Object-Oriented programming.</p>
+<p> After completing several Python Developer courses, to include Zero to Mastery's Complete Python Developer program, I have continued to further my knowledge in Python programming through a variety of side projects that also demonstrate my proficiency in Version Control and Linux.</p>
 
 <p>With over 15 years of dedicated service as a military member in the Canadian Armed Forces, I have honed invaluable skills in communication, leadership, problem-solving, and time management. I am eager to leverage these competencies in tackling the dynamic challenges inherent to Software Development.</p>
 
