@@ -6,7 +6,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=500&color=18677F&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full+Stack+Web+Dev;Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
 </p>
 
-I'm an indie full-stack developer on a mission to craft my digital legacy, one line of code at a time. I breathe life into ideas, transforming concepts into fully-realized solutions that tackle real-world challenges. My secret weapon? With over 15 years in the Canadian Armed Forces, where I've honed razor-sharp communication, leadership, problem-solving skills, and analytical thining. This unique blend of military precision and coding creativity positions me to thrive in the ever-evolving tech landscape. Now, I'm ready to deploy my full arsenal of hard and soft skills to the front lines of software development. Seeking to embed myself in a dynamic tech team where I can contribute, innovate, and continue my mission of digital world-building.
+I'm an indie full-stack developer on a mission to craft my digital legacy, one line of code at a time. I breathe life into ideas, transforming concepts into fully-realized solutions that tackle real-world challenges. My secret weapon? With over 15 years in the Canadian Armed Forces, where I've honed razor-sharp communication, leadership, problem-solving skills, and analytical thining. 
+
+This unique blend of military precision and coding creativity positions me to thrive in the ever-evolving tech landscape. Now, I'm ready to deploy my full arsenal of hard and soft skills to the front lines of software development. Seeking to embed myself in a dynamic tech team where I can contribute, innovate, and continue my mission of digital world-building.
 
 ---
 
