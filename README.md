@@ -1,25 +1,22 @@
-### <h1> Hi, My name is Justin Monge!👋 </h1>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=50&duration=1000&pause=800&color=d5d8d6&center=true&vCenter=true&multiline=false&repeat=false&width=455&height=60&lines=Justin+Monge" alt="Typing SVG" /></a>
+</p>
 
-<h2> Software Developer </h2>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=500&color=18677F&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full+Stack+Web+Dev;Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
+</p>
 
-<p> After completing several Python Developer courses, to include Zero to Mastery's Complete Python Developer program, I have continued to further my knowledge in Python programming through a variety of side projects that also demonstrate my proficiency in Version Control and Linux.</p>
+I'm an indie full-stack developer on a mission to craft my digital legacy, one line of code at a time. I breathe life into ideas, transforming concepts into fully-realized solutions that tackle real-world challenges. My secret weapon? With over 15 years in the Canadian Armed Forces, where I've honed razor-sharp communication, leadership, and problem-solving skills. This unique blend of military precision and coding creativity positions me to thrive in the ever-evolving tech landscape. Now, I'm ready to deploy my full arsenal of hard and soft skills to the front lines of software development. Seeking to embed myself in a dynamic tech team where I can contribute, innovate, and continue my mission of digital world-building.
 
-<p>With over 15 years of dedicated service in the Canadian Armed Forces, I have developed several invaluable soft skills in communication, leadership, problem-solving, and time management through both formal and informal education. I am eager to apply these competencies to address the dynamic challenges in software development, demonstrating my readiness to contribute effectively within the tech industry.</p>
+---
 
-<ul>&#8226; &#127757; I'm currently based in Oromocto, NB</ul>
-<ul>&#8226; &#128187; My projects can be found at "My Portfolio" </ul>
-<ul>&#8226; &#128231; You can contact me at <a href="mailto:justin.mnge@gmail.com">justin.mnge@gmail.com</a></ul>
-
-<h2> Tech Stack </h2>
-<a href="https://www.python.org/" rel="nofollow" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Python-222121?style=for-the-badge&logo=Python&logoColor=BLUE"></a>&nbsp;<a href="https://www.git-scm.com" rel="nofollow" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Git-222121?style=for-the-badge&logo=Git&logoColor=RED"></a>&nbsp;<a href="https://www.linux.com" rel="nofollow" style="text-decoration: none;"><img alt="Static Badge" src="https://img.shields.io/badge/Linux-222121?style=for-the-badge&logo=Linux&logoColor=RED"></a>
-
-</a>
-
-<h2>Connect with me</h2>
-<a href="https://www.linkedin.com/in/justin-monge-cd-942a032b9/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
-
-  </a>
+### Tech Stack: 
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</br>
 
 <!--
 **justinmnge/justinmnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
