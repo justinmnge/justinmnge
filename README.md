@@ -6,9 +6,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=500&color=18677F&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full+Stack+Web+Dev;Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
 </p>
 
-I'm an indie full-stack developer on a mission to craft my digital legacy, one line of code at a time. I breathe life into ideas, transforming concepts into fully-realized solutions that tackle real-world challenges. My secret weapon? With over 15 years in the Canadian Armed Forces, where I've honed razor-sharp analytical thinking, communication, leadership, and problem-solving skills. 
+I am a full-stack developer with over 15 years of experience in the Canadian Armed Forces, where I developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, I pursue indie game development as a hobby, channeling my creativity into building immersive digital experiences.
 
-This unique blend of military precision and coding creativity positions me to thrive in the ever-evolving tech landscape. Now, I'm ready to deploy my full arsenal of hard and soft skills to the front lines of software development. Seeking to embed myself in a dynamic tech team where I can contribute, innovate, and continue my mission of digital world-building.
+My approach blends technical proficiency with a disciplined, strategic mindset, allowing me to turn complex ideas into practical, real-world solutions. I am passionate about software development and eager to contribute to a dynamic team where I can innovate, collaborate, and help bring impactful projects to life.
 
 ---
 
