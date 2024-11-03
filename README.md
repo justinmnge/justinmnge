@@ -6,7 +6,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=500&color=18677F&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full+Stack+Web+Dev;Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
 </p>
 
-I am a full-stack developer with over 15 years of experience in the Canadian Armed Forces, where I developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, I pursue indie game development as a hobby, channeling my creativity into building immersive digital experiences.
+I am a full-stack developer with over 15 years of experience in the Canadian Armed Forces, where I developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, after pivoting to tech in 2024 and I am currently pursing indie game development as a hobby, channeling my creativity into building immersive digital experiences.
 
 My approach blends technical proficiency with a disciplined, strategic mindset, allowing me to turn complex ideas into practical, real-world solutions. I am passionate about software development and eager to contribute to a dynamic team where I can innovate, collaborate, and help bring impactful projects to life.
 
@@ -19,6 +19,8 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </br>
+
+![github-user-contribution](https://github.com/user-attachments/assets/60b89dfc-1922-4053-89a6-55e27a4be46a)
 
 <!--
 **justinmnge/justinmnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
