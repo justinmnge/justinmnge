@@ -23,8 +23,8 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 
 <br>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=justinmnge&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&card_width=320" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=justinmnge&show_icons=true&theme=codeSTACKr" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&langs_count=10&card_width=320" />
 </div>
 
 ![github-user-contribution](https://github.com/user-attachments/assets/60b89dfc-1922-4053-89a6-55e27a4be46a)
