@@ -29,6 +29,8 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 
 ![github-user-contribution](https://github.com/user-attachments/assets/60b89dfc-1922-4053-89a6-55e27a4be46a)
 
+![Snake animation](https://raw.githubusercontent.com/{justinmnge}/{justinmnge}/output/github-contribution-grid-snake-dark.svg)
+
 
 <!--
 **justinmnge/justinmnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
