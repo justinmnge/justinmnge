@@ -25,9 +25,11 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 
 <p align="left">
   
-  🐛 Creating bugs since Feb 2024<br>📖 I'm currently learning Back-End Development through [Boot.dev](https://boot.dev)<br>
-  🎯 Goals: To complete a [BA in Science: Computing & Informations Systems Major, Game Programming Minor](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview)<br>
-  🎲 Fun fact: Placed 7th in my 1st ever Hack-A-Thon at the inaugural HACKFD hosted by the Canadian Army</p>
+  🐛 Creating bugs since Feb 2024<br>
+  🔭 I'm currently working on my personal website<br>
+  🌱 I'm currently learning **Back-End Development** through [Boot.dev](https://boot.dev)<br>
+  🎯 **Goals:** To complete a [BA in Science: Computing & Informations Systems Major, Game Programming Minor](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview)<br>
+  🎲 **Fun fact:** Placed 7th in my 1st ever Hack-A-Thon at the inaugural HACKFD hosted by the Canadian Army</p>
 
 # ⚡ Tech Stack
 
