@@ -23,7 +23,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 
 ###
 
-<p align="left">✨ Creating bugs since Feb 2024<br>📚 I'm currently learning Back-End Development<br>🎯 Goals: To complete a BA in Science: Computing & Informations Systems Major, Game Programming Minor <br>🎲 Fun fact: Placed 7th in my 1st ever Hack-A-Thon at the inaugural HACKFD hosted by the Canadian Army</p>
+<p align="left">🐛 Creating bugs since Feb 2024<br>📖 I'm currently learning Back-End Development<br>🎯 Goals: To complete a BA in Science: Computing & Informations Systems Major, Game Programming Minor <br>🎲 Fun fact: Placed 7th in my 1st ever Hack-A-Thon at the inaugural HACKFD hosted by the Canadian Army</p>
 
 ## Tech Stack
 
@@ -52,10 +52,6 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinmnge/justinmnge/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/justinmnge/justinmnge/output/github-snake.svg" />
 </picture>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 <!--
 **justinmnge/justinmnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
