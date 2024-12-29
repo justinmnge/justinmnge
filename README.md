@@ -23,9 +23,13 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 
 ###
 
-<p align="left">🐛 Creating bugs since Feb 2024<br>📖 I'm currently learning Back-End Development<br>🎯 Goals: To complete a BA in Science: Computing & Informations Systems Major, Game Programming Minor <br>🎲 Fun fact: Placed 7th in my 1st ever Hack-A-Thon at the inaugural HACKFD hosted by the Canadian Army</p>
+<p align="left">
+  
+  🐛 Creating bugs since Feb 2024<br>📖 I'm currently learning Back-End Development through [Boot.dev](https://boot.dev)<br>
+  🎯 Goals: To complete a [BA in Science: Computing & Informations Systems Major, Game Programming Minor](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview)<br>
+  🎲 Fun fact: Placed 7th in my 1st ever Hack-A-Thon at the inaugural HACKFD hosted by the Canadian Army</p>
 
-## Tech Stack
+# ⚡ Tech Stack
 
 <div style="display: inline-block;">
   <img alt="Adobe Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />&nbsp;&nbsp;
@@ -36,6 +40,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
   <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;
   <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
   <img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
+  <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
   <img alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;
   <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
   <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
