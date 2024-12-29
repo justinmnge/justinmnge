@@ -20,18 +20,20 @@ I'm an aspiring full-stack developer with 15+ years of experience in the Canadia
 My approach blends technical proficiency with a disciplined, strategic mindset, allowing me to turn complex ideas into practical, real-world solutions. I am passionate and excited about software development and I'm eager to contribute to a dynamic team where I can innovate, collaborate, and help bring impactful projects to life.
 
 
-<h2> Tech Stack: </h2>
-<img align="left" alt="Markdown" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-<img align="left" alt="Trello" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-<img align="left" alt="Notion" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<img align="left" alt="Canva" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />           
-<img align="left" alt="Figma" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Python" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-<img align="left" alt="GitHub" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Linux" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</br>
+## Tech Stack
+
+<div style="display: inline-block;">
+  <img alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />&nbsp;&nbsp;
+  <img alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />&nbsp;&nbsp;
+  <img alt="Notion" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />&nbsp;&nbsp;
+  <img alt="Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&nbsp;&nbsp;
+  <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;
+  <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
+  <img alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;
+  <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
+  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
