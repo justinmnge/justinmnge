@@ -1,9 +1,7 @@
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=50&duration=1000&pause=800&color=d5d8d6&center=true&vCenter=true&multiline=false&repeat=false&width=455&height=48&lines=Justin+Monge" alt="Typing SVG" /></a>
-</p>
+![death_message](https://github.com/user-attachments/assets/68d69098-3066-4ca0-b2b2-1eb6471bb4a5)
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=500&color=18677F&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full+Stack+Web+Dev;Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=500&color=18677F&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Full+Stack+Web+Dev;Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
