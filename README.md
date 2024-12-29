@@ -13,9 +13,17 @@
 <a href="https://www.linkedin.com/in/justin-mnge/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+<h1> Hello world! I'm Justin 👋 </h1>
+
 I'm an aspiring full-stack developer with 15+ years of experience in the Canadian Armed Forces. I have developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, I am pursuing indie game development as a hobby, channeling my creativity into building immersive digital experiences.
 
+###
+
 My approach blends technical proficiency with a disciplined, strategic mindset, allowing me to turn complex ideas into practical, real-world solutions. I am passionate and excited about software development and I'm eager to contribute to a dynamic team where I can innovate, collaborate, and help bring impactful projects to life.
+
+###
+
+<p align="left">✨ Creating bugs since Feb 2024<br>📚 I'm currently learning Back-End Development<br>🎯 Goals: To complete a BA in Science: Computing & Informations Systems Major, Game Programming Minor <br>🎲 Fun fact: Placed 7th in my 1st ever Hack-A-Thon at the inaugural HACKFD hosted by the Canadian Army</p>
 
 ## Tech Stack
 
@@ -45,6 +53,9 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
   <img alt="github-snake" src="https://raw.githubusercontent.com/justinmnge/justinmnge/output/github-snake.svg" />
 </picture>
 
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 <!--
 **justinmnge/justinmnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
