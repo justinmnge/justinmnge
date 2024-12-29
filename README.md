@@ -33,11 +33,10 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 <img align="left" alt="Git" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </br>
 
-
 <br>
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=justinmnge&show_icons=true&theme=codeSTACKr" />
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&langs_count=10&card_width=320" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=justinmnge&show_icons=true&theme=codeSTACKr" />
+  <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&langs_count=10&card_width=320" />
 </div>
 
 <picture>
