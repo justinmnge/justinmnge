@@ -19,15 +19,15 @@ I'm an aspiring full-stack developer with 15+ years of experience in the Canadia
 
 My approach blends technical proficiency with a disciplined, strategic mindset, allowing me to turn complex ideas into practical, real-world solutions. I am passionate and excited about software development and I'm eager to contribute to a dynamic team where I can innovate, collaborate, and help bring impactful projects to life.
 
-### 📸 Quick Snapshot
-
+### Quick Snapshot
+ 
 <p align="left">
 
-  🐛 *Debugging life since Feb 2024*<br>
-  🔭 *Building my personal website*<br>
-  🌱 *Learning __Back-End Development__ at* [*Boot.dev*](https://boot.dev)<br>
-  🎯 *Pursuing a* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview), *Minor in* [*Game Programming*](https://www.athabascau.ca/calendar/undergraduate/program-regulations/degrees/bsc-minor-in-game-programming.html)<br>
-  🎲 *__Fun fact__: Placed 7th in my first-ever hackathon, HACKFD by the Canadian Army!*<br>
+- 🐛 *Debugging life since Feb 2024*<br>
+- 🔭 *Building my personal website*<br>
+- 🌱 *Learning __Back-End Development__ at* [*Boot.dev*](https://boot.dev)<br>
+- 🎯 *Pursuing a* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview), *Minor in* [*Game Programming*](https://www.athabascau.ca/calendar/undergraduate/program-regulations/degrees/bsc-minor-in-game-programming.html)<br>
+- 🎲 *__Fun fact__: Placed 7th in my first-ever hackathon, HACKFD by the Canadian Army!*<br>
 
 # 💻 Tech Stack
 
