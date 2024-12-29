@@ -26,7 +26,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
   🐛 *Debugging life since Feb 2024*<br>
   🔭 *Building my personal website*<br>
   🌱 *Learning __Back-End Development__ at* [*Boot.dev*](https://boot.dev)<br>
-  🎯 *Pursuing a* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview)<br>
+  🎯 *Pursuing a* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview), *Minor in* [*Game Programming*](https://www.athabascau.ca/calendar/undergraduate/program-regulations/degrees/bsc-minor-in-game-programming.html)<br>
   🎲 *__Fun fact__: Placed 7th in my first-ever hackathon, HACKFD by the Canadian Army!*<br>
 
 # 💻 Tech Stack
