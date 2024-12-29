@@ -21,23 +21,23 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 
 
 <h2> Tech Stack: </h2>
-<img align="left" alt="Markdown" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-<img align="left" alt="Trello" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-<img align="left" alt="Notion" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<img align="left" alt="Canva" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />           
-<img align="left" alt="Figma" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Python" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-<img align="left" alt="GitHub" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Linux" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="24px" style="padding-right:10px; margin-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Markdown" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+<img align="left" alt="Trello" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+<img align="left" alt="Notion" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+<img align="left" alt="Canva" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />           
+<img align="left" alt="Figma" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Python" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+<img align="left" alt="GitHub" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Linux" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="24px" style="padding-right:10px; margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </br>
 
 
 <br>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=justinmnge&show_icons=true&theme=codeSTACKr" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&langs_count=10&card_width=320" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=justinmnge&show_icons=true&theme=codeSTACKr" />
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&langs_count=10&card_width=320" />
 </div>
 
 <picture>
