@@ -19,7 +19,7 @@ I'm an aspiring full-stack developer with 15+ years of experience in the Canadia
 
 My approach blends technical proficiency with a disciplined, strategic mindset, allowing me to turn complex ideas into practical, real-world solutions. I am passionate and excited about software development and I'm eager to contribute to a dynamic team where I can innovate, collaborate, and help bring impactful projects to life.
 
-### Quick Snapshot
+### Highlights 
  
 <p align="left">
 
