@@ -17,21 +17,19 @@
 
 I'm an aspiring full-stack developer with 15+ years of experience in the Canadian Armed Forces. I have developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, I am pursuing indie game development as a hobby, channeling my creativity into building immersive digital experiences.
 
-###
-
 My approach blends technical proficiency with a disciplined, strategic mindset, allowing me to turn complex ideas into practical, real-world solutions. I am passionate and excited about software development and I'm eager to contribute to a dynamic team where I can innovate, collaborate, and help bring impactful projects to life.
 
-###
+### 📸 Quick Snapshot
 
 <p align="left">
-  
-  🐛 Creating bugs since Feb 2024<br>
-  🔭 I'm currently working on my personal website<br>
-  🌱 I'm currently learning **Back-End Development** through [Boot.dev](https://boot.dev)<br>
-  🎯 **Goals:** To complete a [BA in Science: Computing & Informations Systems Major, Game Programming Minor](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview)<br>
-  🎲 **Fun fact:** Placed 7th in my 1st ever Hack-A-Thon at the inaugural HACKFD hosted by the Canadian Army</p>
 
-# ⚡ Tech Stack
+  🐛 *Debugging life since Feb 2024*<br>
+  🔭 *Building my personal website*<br>
+  🌱 *Learning __Back-End Development__ at* [*Boot.dev*](https://boot.dev)<br>
+  🎯 *Pursuing a* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview)<br>
+  🎲 *__Fun fact__: Placed 7th in my first-ever hackathon, HACKFD by the Canadian Army!*<br>
+
+# 💻 Tech Stack
 
 <div style="display: inline-block;">
   <img alt="Adobe Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />&nbsp;&nbsp;
@@ -50,8 +48,8 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=justinmnge&show_icons=true&theme=codeSTACKr" />
-  <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&langs_count=10&card_width=320" />
+  <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=justinmnge&show_icons=true&theme=noctis_minimus" />
+  <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=noctis_minimus&langs_count=10&card_width=320" />
 </div>
 
 <picture>
