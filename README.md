@@ -23,6 +23,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 ## Tech Stack
 
 <div style="display: inline-block;">
+  <img alt="Adobe Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />&nbsp;&nbsp;
   <img alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />&nbsp;&nbsp;
   <img alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />&nbsp;&nbsp;
   <img alt="Notion" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />&nbsp;&nbsp;
