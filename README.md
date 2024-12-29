@@ -3,11 +3,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=40&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=50&lines=Full+Stack+Web+Dev;Indie+Game+Dev" alt="Typing SVG" /></a>
 </p>
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=50&lines=Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
 </p>
-
 <p align="center">
 <a href = "mailto: justin.mnge@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.facebook.com/justin.mnge1"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -15,10 +13,9 @@
 <a href="https://www.linkedin.com/in/justin-mnge/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-I'm an aspiring full-stack developer with 15+ years of experience in the Canadian Armed Forces. I have developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, I am pursing indie game development as a hobby, channeling my creativity into building immersive digital experiences.
+I'm an aspiring full-stack developer with 15+ years of experience in the Canadian Armed Forces. I have developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, I am pursuing indie game development as a hobby, channeling my creativity into building immersive digital experiences.
 
 My approach blends technical proficiency with a disciplined, strategic mindset, allowing me to turn complex ideas into practical, real-world solutions. I am passionate and excited about software development and I'm eager to contribute to a dynamic team where I can innovate, collaborate, and help bring impactful projects to life.
-
 
 ## Tech Stack
 
