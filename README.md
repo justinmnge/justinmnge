@@ -31,7 +31,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,linux,bash,git,github,vscode,notion,figma,ps&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,linux,bash,git,github,vscode,notion,figma,ps)](https://skillicons.dev)
 
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
