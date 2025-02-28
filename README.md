@@ -1,5 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/6949e984-6f5c-4001-be6b-d7a1ed8cbf81)
 
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=40&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=50&lines=Full+Stack+Web+Dev;Indie+Game+Dev" alt="Typing SVG" /></a>
 </p>
@@ -13,7 +14,13 @@
 <a href="https://www.linkedin.com/in/justin-mnge/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<h1> Hello world! I'm Justin 👋 </h1>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=justinmnge&style=flat-square&color=blue" alt=""/>
+</p>
+
+<h1 align="center"> 
+ Hello world! I'm Justin 👋 
+</h1>
 
 I'm an aspiring full-stack developer with 15+ years of experience in the Canadian Armed Forces. I have developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, I am pursuing indie game development as a hobby, channeling my creativity into building immersive digital experiences.
 
