@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=40&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=50&lines=Full+Stack+Web+Dev;Indie+Game+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=60&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=45&lines=Full+Stack+Web+Dev;Indie+Game+Dev" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=50&lines=Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=35&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=25&lines=Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a href = "mailto: justin.mnge@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30"></a>&nbsp;
@@ -18,9 +18,13 @@
  <img src="https://komarev.com/ghpvc/?username=justinmnge&style=flat-square&color=red" alt=""/>
 </p>
 
-<h1 align="center"> 
- Hello world! I'm Justin 👋 
-</h1>
+<div id="user-content-toc" align="center">
+  <ul>
+   <summary><h1 align="center">
+    Hello world! I'm Justin👋 
+   </h1></summary>
+  </ul>
+</div>
 
 I'm an aspiring full-stack developer with 15+ years of experience in the Canadian Armed Forces. I have developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, I am pursuing indie game development as a hobby, channeling my creativity into building immersive digital experiences.
 
@@ -36,9 +40,11 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 🎯 *Pursuing a* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview), *Minor in* [*Game Programming*](https://www.athabascau.ca/calendar/undergraduate/program-regulations/degrees/bsc-minor-in-game-programming.html)<br>
 🎲 *__Fun fact__: Placed 7th in my first-ever hackathon, HACKFD by the Canadian Army!*<br>
 
-<h1 align="center">
- 💻 Tech Stack
-</h1>
+---
+
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=60&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=45&lines=TECH+STACK" alt="Typing SVG" /></a>
+</p>
 
 <h3 align="center">
  Languages
@@ -78,10 +84,8 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
  <img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48">&nbsp;
 </p>
 
-
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=justinmnge&show_icons=true&theme=noctis_minimus" />
   <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=noctis_minimus&langs_count=10&card_width=320" />
 </div>
 
