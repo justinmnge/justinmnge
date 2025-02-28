@@ -47,26 +47,32 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 </p>
 
 <h3 align="center">
- Languages
+ Programming & Scripting Languages
 </h3>
 
 <p align="center">
  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go"></a>&nbsp;
  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>&nbsp;
+ <img src="https://skillicons.dev/icons?i=bash">&nbsp;
+ <img src="https://skillicons.dev/icons?i=md">&nbsp;
 </p>
 
 <h3 align="center">
- Development Tools
+ Development & Productivitiy Tools
 </h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=bash">&nbsp;
  <img src="https://skillicons.dev/icons?i=git">&nbsp;
  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"></a>&nbsp;
+ <a href="https://git-lfs.com/"><img src="https://github.com/user-attachments/assets/a76cb9f2-4116-4d69-9a8a-ea2d0e8f9d50" width="48" height="48"></a>&nbsp;
+ <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu"></a>&nbsp;
  <img src="https://skillicons.dev/icons?i=vscode">&nbsp;
+ <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion"></a>&nbsp;
+ <a href="https://trello.com/"><img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48"></a>&nbsp;
+ <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord"></a>&nbsp;
 </p>
 
 <h3 align="center">
- Design & 3D
+ Design & Creative Tools
 </h3>
 <p align="center">
  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma"></a>&nbsp;
@@ -74,14 +80,6 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
  <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender"></a>&nbsp;
  <a href="https://www.unrealengine.com/en-US/unreal-engine-5"><img src="https://github.com/user-attachments/assets/77b01264-6f49-4532-ac60-38b0b95a27f5" width="48" height="48"></a>&nbsp;
  <a href="https://www.canva.com/"><img src="https://github.com/user-attachments/assets/68ce5212-519e-49f8-adcf-36ff0a5424fa" width="48" height="48"></a>&nbsp;
-</p>
-
-<h3 align="center">
- Documentation & Organization
-</h3>
-<p align="center">
- <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion"></a>&nbsp;
- <a href="https://trello.com/"><img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48"></a>&nbsp;
 </p>
 
 <br>
