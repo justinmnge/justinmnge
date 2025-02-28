@@ -45,7 +45,8 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 </h3>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=go,py">
+ <img src="https://skillicons.dev/icons?i=go">&nbsp;
+ <img src="https://skillicons.dev/icons?i=py">&nbsp;
 </p>
 
 <h3 align="center">
