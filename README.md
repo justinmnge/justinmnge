@@ -39,6 +39,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 <h1 align="center">
  💻 Tech Stack
 </h1>
+
 <h3 align="center">
  Languages
 </h3>
@@ -51,24 +52,29 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
  Development Tools
 </h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=bash,git,github,vscode">
+ <img src="https://skillicons.dev/icons?i=bash">&nbsp;
+ <img src="https://skillicons.dev/icons?i=git">&nbsp;
+ <img src="https://skillicons.dev/icons?i=github">&nbsp;
+ <img src="https://skillicons.dev/icons?i=vscode">&nbsp;
 </p>
 
 <h3 align="center">
  Design & 3D
 </h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=figma,ps,blender">
- <img src="https://github.com/user-attachments/assets/0642a1b3-b297-4475-8ba4-b1874b92b710" width="48" height="48">
- <img src="https://github.com/user-attachments/assets/18eacd5c-8955-4e21-b289-014c20f90307" width="48" height="48">
+ <img src="https://skillicons.dev/icons?i=figma">&nbsp;
+ <img src="https://skillicons.dev/icons?i=ps">&nbsp;
+ <img src="https://skillicons.dev/icons?i=blender">&nbsp;
+ <img src="https://github.com/user-attachments/assets/77b01264-6f49-4532-ac60-38b0b95a27f5" width="48" height="48">&nbsp;
+ <img src="https://github.com/user-attachments/assets/68ce5212-519e-49f8-adcf-36ff0a5424fa" width="48" height="48">&nbsp;
 </p>
 
 <h3 align="center">
  Documentation & Organization
 </h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=notion">
- <img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48">
+ <img src="https://skillicons.dev/icons?i=notion">&nbsp;
+ <img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48">&nbsp;
 </p>
 
 
