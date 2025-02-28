@@ -8,10 +8,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=50&lines=Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href = "mailto: justin.mnge@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.facebook.com/justin.mnge1"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/j.mnge/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/justin-mnge/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto: justin.mnge@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30"></a>&nbsp;
+<a href="https://www.facebook.com/justin.mnge1"><img src="https://github.com/user-attachments/assets/1db60db7-6a4f-4431-a588-73f424e03583" width="30" height="30"></a>&nbsp;
+<a href="https://www.instagram.com/j.mnge/"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"></a>&nbsp;
+<a href="https://www.linkedin.com/in/justin-mnge/"><img src="https://github.com/user-attachments/assets/39e300d9-4ca7-4c69-975a-1e7289e93a46" width="30" height="30"></a>&nbsp;
 </p>
 
 <p align="center">
