@@ -48,7 +48,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 </p>
 
 <h3 align="center">
- Development & Productivitiy Tools
+ Development & Productivity Tools
 </h3>
 <p align="center">
  <img src="https://skillicons.dev/icons?i=git">&nbsp;
