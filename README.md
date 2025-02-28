@@ -58,7 +58,6 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
  <img src="https://skillicons.dev/icons?i=vscode">&nbsp;
  <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion"></a>&nbsp;
  <a href="https://trello.com/"><img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48"></a>&nbsp;
- <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord"></a>&nbsp;
 </p>
 
 <h3 align="center">
