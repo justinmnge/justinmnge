@@ -36,9 +36,41 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 🎯 *Pursuing a* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview), *Minor in* [*Game Programming*](https://www.athabascau.ca/calendar/undergraduate/program-regulations/degrees/bsc-minor-in-game-programming.html)<br>
 🎲 *__Fun fact__: Placed 7th in my first-ever hackathon, HACKFD by the Canadian Army!*<br>
 
-## 💻 Tech Stack
+<h1 align="center">
+ 💻 Tech Stack
+</h1>
+<h3 align="center">
+ Languages
+</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,linux,bash,git,github,vscode,notion,figma,ps)](https://skillicons.dev)
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=go,py">
+</p>
+
+<h3 align="center">
+ Development Tools
+</h3>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=bash,git,github,vscode">
+</p>
+
+<h3 align="center">
+ Design & 3D
+</h3>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=figma,ps,blender">
+ <img src="https://github.com/user-attachments/assets/0642a1b3-b297-4475-8ba4-b1874b92b710" width="48" height="48">
+ <img src="https://github.com/user-attachments/assets/18eacd5c-8955-4e21-b289-014c20f90307" width="48" height="48">
+</p>
+
+<h3 align="center">
+ Documentation & Organization
+</h3>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=notion">
+ <img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48">
+</p>
+
 
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
