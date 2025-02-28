@@ -7,16 +7,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=35&duration=3000&pause=500&color=18677F&center=true&vCenter=true&width=435&height=25&lines=Coding%2C+Creating%2C+Gaming" alt="Typing SVG" /></a>
 </p>
-<p align="center">
-<a href = "mailto: justin.mnge@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30"></a>&nbsp;
-<a href="https://www.facebook.com/justin.mnge1"><img src="https://github.com/user-attachments/assets/1db60db7-6a4f-4431-a588-73f424e03583" width="30" height="30"></a>&nbsp;
-<a href="https://www.instagram.com/j.mnge/"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"></a>&nbsp;
-<a href="https://www.linkedin.com/in/justin-mnge/"><img src="https://github.com/user-attachments/assets/39e300d9-4ca7-4c69-975a-1e7289e93a46" width="30" height="30"></a>&nbsp;
-</p>
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=justinmnge&style=flat-square&color=red" alt=""/>
-</p>
 
 <div id="user-content-toc" align="center">
   <ul>
