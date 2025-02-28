@@ -51,8 +51,8 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 </h3>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=go">&nbsp;
- <img src="https://skillicons.dev/icons?i=py">&nbsp;
+ <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go"></a>&nbsp;
+ <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>&nbsp;
 </p>
 
 <h3 align="center">
@@ -61,7 +61,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=bash">&nbsp;
  <img src="https://skillicons.dev/icons?i=git">&nbsp;
- <img src="https://skillicons.dev/icons?i=github">&nbsp;
+ <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"></a>&nbsp;
  <img src="https://skillicons.dev/icons?i=vscode">&nbsp;
 </p>
 
@@ -69,19 +69,19 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
  Design & 3D
 </h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=figma">&nbsp;
+ <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma"></a>&nbsp;
  <img src="https://skillicons.dev/icons?i=ps">&nbsp;
- <img src="https://skillicons.dev/icons?i=blender">&nbsp;
- <img src="https://github.com/user-attachments/assets/77b01264-6f49-4532-ac60-38b0b95a27f5" width="48" height="48">&nbsp;
- <img src="https://github.com/user-attachments/assets/68ce5212-519e-49f8-adcf-36ff0a5424fa" width="48" height="48">&nbsp;
+ <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender"></a>&nbsp;
+ <a href="https://www.unrealengine.com/en-US/unreal-engine-5"><img src="https://github.com/user-attachments/assets/77b01264-6f49-4532-ac60-38b0b95a27f5" width="48" height="48"></a>&nbsp;
+ <a href="https://www.canva.com/"><img src="https://github.com/user-attachments/assets/68ce5212-519e-49f8-adcf-36ff0a5424fa" width="48" height="48"></a>&nbsp;
 </p>
 
 <h3 align="center">
  Documentation & Organization
 </h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=notion">&nbsp;
- <img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48">&nbsp;
+ <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion"></a>&nbsp;
+ <a href="https://trello.com/"><img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48"></a>&nbsp;
 </p>
 
 <br>
