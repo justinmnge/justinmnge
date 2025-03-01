@@ -37,7 +37,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 </p>
 
 <h3 align="center">
- Programming & Scripting Languages
+ Languages
 </h3>
 
 <p align="center">
