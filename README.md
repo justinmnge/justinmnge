@@ -67,6 +67,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 </h3>
 <p align="center">
  <img src="https://skillicons.dev/icons?i=mysql">&nbsp;
+ <img src="https://skillicons.dev/icons?i=sqlite">&nbsp;
 </p>
 
 <h3 align="center">
