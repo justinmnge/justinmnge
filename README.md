@@ -39,10 +39,12 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 <h3 align="center">
  Languages
 </h3>
-
 <p align="center">
  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go"></a>&nbsp;
  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>&nbsp;
+ <img src="https://github.com/user-attachments/assets/1561f183-1db1-4b95-a57c-5512ccc72040" width="48" height="48"></a>&nbsp;
+ <img src="https://skillicons.dev/icons?i=html">&nbsp;
+ <img src="https://skillicons.dev/icons?i=css">&nbsp;
  <img src="https://skillicons.dev/icons?i=bash">&nbsp;
  <img src="https://skillicons.dev/icons?i=md">&nbsp;
 </p>
@@ -56,8 +58,15 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
  <a href="https://git-lfs.com/"><img src="https://github.com/user-attachments/assets/a76cb9f2-4116-4d69-9a8a-ea2d0e8f9d50" width="48" height="48"></a>&nbsp;
  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu"></a>&nbsp;
  <img src="https://skillicons.dev/icons?i=vscode">&nbsp;
- <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion"></a>&nbsp;
+ <a href="https://www.notion.so/"><img src="https://github.com/user-attachments/assets/01e68830-cb9c-405a-a062-0630895fea27" width="48" height="48"></a>&nbsp;
  <a href="https://trello.com/"><img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48"></a>&nbsp;
+</p>
+
+<h3 align="center">
+ Databases & Cloud Hosting
+</h3>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=mysql">&nbsp;
 </p>
 
 <h3 align="center">
@@ -66,8 +75,6 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 <p align="center">
  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma"></a>&nbsp;
  <img src="https://skillicons.dev/icons?i=ps">&nbsp;
- <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender"></a>&nbsp;
- <a href="https://www.unrealengine.com/en-US/unreal-engine-5"><img src="https://github.com/user-attachments/assets/77b01264-6f49-4532-ac60-38b0b95a27f5" width="48" height="48"></a>&nbsp;
  <a href="https://www.canva.com/"><img src="https://github.com/user-attachments/assets/68ce5212-519e-49f8-adcf-36ff0a5424fa" width="48" height="48"></a>&nbsp;
 </p>
 
