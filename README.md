@@ -44,7 +44,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>&nbsp;
  <img src="https://github.com/user-attachments/assets/1561f183-1db1-4b95-a57c-5512ccc72040" width="48" height="48"></a>&nbsp;
  <img src="https://skillicons.dev/icons?i=html">&nbsp;
- <img src="https://skillicons.dev/icons?i=css">&nbsp;
+ <img src="https://github.com/user-attachments/assets/debd8e54-8d8a-4dc1-b900-0c778af06574" width="48" height="48"></a>&nbsp;
  <img src="https://skillicons.dev/icons?i=bash">&nbsp;
  <img src="https://skillicons.dev/icons?i=md">&nbsp;
 </p>
