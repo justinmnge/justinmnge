@@ -66,8 +66,8 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
  Databases & Cloud Hosting
 </h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=mysql">&nbsp;
- <img src="https://skillicons.dev/icons?i=sqlite">&nbsp;
+ <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql">&nbsp;
+ <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite">&nbsp;
 </p>
 
 <h3 align="center">
