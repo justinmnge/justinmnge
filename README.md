@@ -81,7 +81,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=justinmnge&show_icons=true&locale=en&layout=compact&theme=noctis_minimus&langs_count=10&card_width=320" />
+  <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinmnge&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
 <picture>
