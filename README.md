@@ -68,6 +68,7 @@ My approach blends technical proficiency with a disciplined, strategic mindset, 
 </h3>
 <p align="center">
   <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp"></a>&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"></a>&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres"></a>&nbsp;
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"></a>&nbsp;
   <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite"></a>&nbsp;
