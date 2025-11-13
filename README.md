@@ -16,16 +16,16 @@
   </ul>
 </div>
 
-I'm an aspiring full-stack developer with 15+ years of experience in the Canadian Armed Forces. I have developed strong skills in analytical thinking, communication, leadership, and problem-solving. In addition to my professional work, I am pursuing indie game development as a hobby, channeling my creativity into building immersive digital experiences.
+I'm a software developer with 16+ years of leadership experience in the Canadian Armed Forces, where I honed my skills in analytical thinking, problem-solving, and strategic communication. I bring a disciplined, results-driven approach to building practical solutions for complex technical challenges.
 
-My approach blends technical proficiency with a disciplined, strategic mindset, allowing me to turn complex ideas into practical, real-world solutions. I am passionate and excited about software development and I'm eager to contribute to a dynamic team where I can innovate, collaborate, and help bring impactful projects to life.
+Beyond professional development, I'm passionate about indie game development—crafting immersive digital experiences that blend creativity with code. I thrive in collaborative environments where I can contribute to innovative projects and help teams turn ambitious ideas into reality.
 
 ### Highlights 
  
 <p align="left">
  
  🐛 *Debugging life since Feb 2024*<br>
-🔭 *Currently building my personal website*<br>
+🔭 *Currently building a full-stack web app*<br>
 🌱 *Learning __Back-End Development__ through* [*Boot.dev*](https://boot.dev)<br>
 🎯 *Pursuing a* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview), *Minor in* [*Game Programming*](https://www.athabascau.ca/calendar/undergraduate/program-regulations/degrees/bsc-minor-in-game-programming.html)<br>
 🎲 *__Fun fact__: Placed 7th in my first-ever hackathon, HACKFD by the Canadian Army!*<br>
