@@ -54,6 +54,7 @@ Beyond professional development, I'm passionate about indie game development—c
 </h3>
 <p align="center">
  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker"></a>&nbsp;
+ <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes"></a>&nbsp;
  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"></a>&nbsp;
  <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq"></a>&nbsp;
  <img src="https://skillicons.dev/icons?i=git">&nbsp;
