@@ -42,11 +42,8 @@ Beyond professional development, I'm passionate about indie game development—c
 <p align="center">
  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go"></a>&nbsp;
  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"></a>&nbsp;
- <img src="https://github.com/user-attachments/assets/1561f183-1db1-4b95-a57c-5512ccc72040" width="48" height="48"></a>&nbsp;
  <img src="https://skillicons.dev/icons?i=html">&nbsp;
  <img src="https://github.com/user-attachments/assets/debd8e54-8d8a-4dc1-b900-0c778af06574" width="48" height="48"></a>&nbsp;
- <img src="https://skillicons.dev/icons?i=bash">&nbsp;
- <img src="https://skillicons.dev/icons?i=md">&nbsp;
 </p>
 
 <h3 align="center">
@@ -57,9 +54,6 @@ Beyond professional development, I'm passionate about indie game development—c
  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes"></a>&nbsp;
  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"></a>&nbsp;
  <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq"></a>&nbsp;
- <img src="https://skillicons.dev/icons?i=git">&nbsp;
- <a href="https://git-lfs.com/"><img src="https://github.com/user-attachments/assets/a76cb9f2-4116-4d69-9a8a-ea2d0e8f9d50" width="48" height="48"></a>&nbsp;
- <img src="https://skillicons.dev/icons?i=vscode">&nbsp;
  <a href="https://www.notion.so/"><img src="https://github.com/user-attachments/assets/01e68830-cb9c-405a-a062-0630895fea27" width="48" height="48"></a>&nbsp;
  <a href="https://trello.com/"><img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48"></a>&nbsp;
  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel"&theme=dark></a>&nbsp;
