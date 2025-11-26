@@ -16,9 +16,11 @@
   </ul>
 </div>
 
-I'm a software developer with 16+ years of leadership experience in the Canadian Armed Forces, where I honed my skills in analytical thinking, problem-solving, and strategic communication. I bring a disciplined, results-driven approach to building practical solutions for complex technical challenges.
+I'm a software developer with 16+ years of leadership experience in the Canadian Armed Forces, where I honed my skills in analytical thinking, problem-solving, and strategic communication. I bring a disciplined, results-driven approach to building reliable software solutions using Go, Python, Docker, Kubernetes, PostgreSQL, and GCP, with experience in CI/CD pipelines, while expanding into the JavaScript ecosystem.
 
-Beyond professional development, I'm passionate about indie game development—crafting immersive digital experiences that blend creativity with code. I thrive in collaborative environments where I can contribute to innovative projects and help teams turn ambitious ideas into reality.
+I'm also passionate about indie game development - crafting immersive digital experiences that blend creativity with code. I thrive in collaborative environments where I can contribute to innovative projects and help teams turn ambitious ideas into reality.
+
+Let's connect and explore how we can collaborate.
 
 ### Highlights 
  
