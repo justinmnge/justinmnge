@@ -57,7 +57,7 @@ Let's connect and explore how we can collaborate.
  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker"></a>&nbsp;
  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes"></a>&nbsp;
  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"></a>&nbsp;
- <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq"></a>&nbsp;
+ <a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel"></a>&nbsp;
  <a href="https://www.notion.so/"><img src="https://github.com/user-attachments/assets/01e68830-cb9c-405a-a062-0630895fea27" width="48" height="48"></a>&nbsp;
  <a href="https://trello.com/"><img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48"></a>&nbsp;
  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel"&theme=dark></a>&nbsp;
