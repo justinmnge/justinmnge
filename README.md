@@ -16,20 +16,19 @@
   </ul>
 </div>
 
-I'm a software developer with 16+ years of leadership experience in the Canadian Armed Forces, where I honed my skills in analytical thinking, problem-solving, and strategic communication. I bring a disciplined, results-driven approach to building reliable software solutions using Go, TypeScript, Docker, Kubernetes, PostgreSQL, and GCP, with experience in CI/CD pipelines, while expanding into the JavaScript ecosystem.
+I'm an aspiring full-stack developer with 16+ years of leadership experience in the Canadian Armed Forces, bringing a disciplined approach to software development. I'm building my expertise in Go, TypeScript, and JavaScript through hands-on projects and comprehensive training, and I continue to deepen my understanding through coursework and independent learning. 
 
-I'm also passionate about indie game development - crafting immersive digital experiences that blend creativity with code. I thrive in collaborative environments where I can contribute to innovative projects and help teams turn ambitious ideas into reality.
+I work with PostgreSQL, Docker, and cloud technologies while developing web applications that combine solid backend architecture with functional frontends. I'm committed to writing clean, maintainable code and continuously expanding my skills to deliver reliable software solutions in collaborative team environments.
 
 Let's connect and explore how we can collaborate.
 
 ### Highlights 
  
 <p align="left">
- 
- 🐛 *Debugging life since Feb 2024*<br>
-🔭 *Currently building a full-stack web app*<br>
-🌱 *Learning __Back-End Development__ through* [*Boot.dev*](https://boot.dev)<br>
-🎯 *Pursuing a* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview), *Minor in* [*Game Programming*](https://www.athabascau.ca/calendar/undergraduate/program-regulations/degrees/bsc-minor-in-game-programming.html)<br>
+
+🎯 *__Goal__: To be job-ready for junior full-stack developer roles by Jan 2027*<br>
+🔭 *Currently building a full-stack web app with TypeScript*<br>
+🌱 *Enrolled in* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview), *Minor in* [*Game Programming*](https://www.athabascau.ca/calendar/undergraduate/program-regulations/degrees/bsc-minor-in-game-programming.html)<br>
 🎲 *__Fun fact__: Placed 7th in my first-ever hackathon, HACKFD by the Canadian Army!*<br>
 
 ---
@@ -55,12 +54,12 @@ Let's connect and explore how we can collaborate.
 </h3>
 <p align="center">
  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker"></a>&nbsp;
- <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes"></a>&nbsp;
  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"></a>&nbsp;
- <a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel"></a>&nbsp;
+ <img src="https://skillicons.dev/icons?i=discord"></a>&nbsp;
  <a href="https://www.notion.so/"><img src="https://github.com/user-attachments/assets/01e68830-cb9c-405a-a062-0630895fea27" width="48" height="48"></a>&nbsp;
  <a href="https://trello.com/"><img src="https://github.com/user-attachments/assets/d28b41f3-f9c6-4cb0-a5b2-379c5445ede0" width="48" height="48"></a>&nbsp;
  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel"&theme=dark></a>&nbsp;
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint"&theme=dark></a>&nbsp;
 </p>
 
 <h3 align="center">
@@ -68,10 +67,7 @@ Let's connect and explore how we can collaborate.
 </h3>
 <p align="center">
   <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp"></a>&nbsp;
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"></a>&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres"></a>&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"></a>&nbsp;
-  <a href="https://www.turso.tech/"><img src="https://go-skill-icons.vercel.app/api/icons?i=turso"&theme=dark></a>&nbsp;
   <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite"></a>&nbsp;
 </p>
 
@@ -94,18 +90,3 @@ Let's connect and explore how we can collaborate.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinmnge/justinmnge/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/justinmnge/justinmnge/output/github-snake.svg" />
 </picture>
-
-<!--
-**justinmnge/justinmnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
