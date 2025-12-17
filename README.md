@@ -83,6 +83,7 @@ Let's connect and explore how we can collaborate.
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img style="min-width: 400px; max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinmnge&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" />
+  <img src="https://api.boot.dev/v1/users/public/d7756188-19de-4778-b422-5c22deaaf64e/thumbnail" width="295"height="280"style=" border: 10px solid white;">
 </div>
 
 <picture>
