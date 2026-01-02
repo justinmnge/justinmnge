@@ -22,15 +22,6 @@ I work with PostgreSQL, Docker, and cloud technologies while developing web appl
 
 Let's connect and explore how we can collaborate.
 
-### Highlights 
- 
-<p align="left">
-
-🎯 *__Goal__: To be job-ready for junior full-stack developer roles by Jan 2027*<br>
-🔭 *Currently building a full-stack web app with TypeScript*<br>
-🌱 *Enrolled in* [*BSc in Computing & Info Systems*](https://www.athabascau.ca/programs/summary/bachelor-of-science-in-computing-and-information-systems.html#overview), *Minor in* [*Game Programming*](https://www.athabascau.ca/calendar/undergraduate/program-regulations/degrees/bsc-minor-in-game-programming.html)<br>
-🎲 *__Fun fact__: Placed 7th in my first-ever hackathon, HACKFD by the Canadian Army!*<br>
-
 ---
 
 <p align="center">
